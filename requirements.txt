@@ -1,5 +1,2 @@
 customtkinter==5.2.2
-
-pymongo==3.11.4
 pytube==15.0.0
-pytz==2024.2
